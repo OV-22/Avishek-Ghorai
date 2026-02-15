@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Avishek Ghorai | Portfolio</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Avishek Ghorai</h1>
+        <p>Instrumentation & Electronics Engineer</p>
+    </header>
+
+    <nav>
+        <a href="#about">About</a>
+        <a href="#skills">Skills</a>
+        <a href="#projects">Projects</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>
+            Final year Instrumentation and Electronics Engineering student 
+            focused on Control Systems, PLC, SCADA, IoT and Core Engineering roles.
+        </p>
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>PLC Programming</li>
+            <li>DCS & SCADA</li>
+            <li>IoT (ESP32, Arduino)</li>
+            <li>Control Systems</li>
+            <li>HTML, CSS, JavaScript</li>
+        </ul>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+
+        <div class="project">
+            <h3>Smart City Environmental Monitoring System</h3>
+            <p>IoT-based real-time monitoring using ESP32 with dashboard visualization.</p>
+        </div>
+
+        <div class="project">
+            <h3>Pure Sine Wave Inverter</h3>
+            <p>Arduino-based PWM inverter with filtering and voltage control.</p>
+        </div>
+
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: yourmail@gmail.com</p>
+        <p>LinkedIn: linkedin.com/in/yourprofile</p>
+        <p>GitHub: github.com/yourusername</p>
+    </section>
+
+    <footer>
+        <p>© 2026 Avishek Ghorai</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
